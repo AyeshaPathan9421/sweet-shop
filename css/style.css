@@ -1,0 +1,70 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&family=Edu+AU+VIC+WA+NT+Hand:wght@400..700&family=Grey+Qo&family=Kalnia+Glaze:wght@100..700&family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap');
+
+
+
+.body{
+    background-color: #faeee7;
+    margin: 0;
+    padding: 0;
+}
+
+.dancing-script{
+    font-family: 'Dancing script',cursive;
+}
+
+.bg-light{
+    background-color:#faeee7 ;
+
+}
+
+.bg-primary{
+    background-color: #ff8ba7;
+}
+
+.bg-secondary{
+    background-color:#ffc6c7 ;
+}
+
+.text-primary{
+    color: #ff8ba7;
+}
+
+.text-secondary{
+    color: #ffc6c7;
+}
+
+.text-dark{
+    color: #33272a;
+}
+
+.text-center{
+    text-align: center;
+}
+
+.btn{
+    padding: 10px 30px;
+    border-radius: 50px;
+    border: none;
+    cursor: pointer;
+    box-shadow: o 5px 15px #faeee7;
+    color: #33272a;
+    text-decoration: none;
+
+}
+
+.btn-primary{
+    background-color: #ff8ba7;
+}
+
+.btn-secondary{
+    background-color: #ffc6c7;
+}
+
+.no-underline{
+    text-decoration: none;
+}
+
+.fs50{
+    font-size: 50px;
+}

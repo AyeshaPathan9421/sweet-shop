@@ -1,0 +1,53 @@
+.subtitle-highlight{
+background-color: #ffc6c7;
+padding: 2px 10px;
+border-radius: 5px;
+}
+
+.why-choose-us-heading{
+   margin-top: 50px;
+
+}
+
+.why-choose-us-container{
+    display:flex;
+    justify-content: space-around;
+    background-color: #faeee7;
+    margin: 20px 0;
+    padding: 20px;
+}
+
+.why-choose-us-card{
+background-color:#ffc6c7;
+width: 180px;
+padding: 10px;
+border-radius: 5px;
+margin: 10px;
+box-shadow: 0 0 10px 3px black ;
+}
+
+.header-img-container{
+width:50%;
+}
+
+.header-description-container{
+    width:50%;
+
+}
+.why-choose-us-img{
+    height: 55px;
+    display: block;
+    margin: 30px auto;
+}
+
+.header-section{
+    display: flex;
+}
+
+.bakery-product{
+    height: 300px;
+    width: 250;
+    border: 10px solid #faeee7 ;
+    display: block;
+    margin: 20px 0;
+}

@@ -1,0 +1,64 @@
+.variety-card{
+    background-color: #faeee7;
+    width: 150px;
+    padding: 10px;
+    margin: 20px;
+    border-radius: 10px;
+    box-shadow: -5px 5px  10px 1px #594a4e;
+    border: 1px  #ff8ba7;
+    height: 310px;
+    display: inline-block;
+   
+
+}
+
+.variety-card:hover{
+    box-shadow: -5px 5px 5px 1px #ecc6c6;
+    cursor: pointer;
+}
+
+.variety-icon{
+    height: 100px;
+    display: block;
+    margin: 10px auto;
+}
+
+.menu-title{
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.variety-discription{
+    font-size: 12px;
+    margin-top: 0;
+}
+
+.variety-order-btn{
+    background-color: #ff668a;
+    color: #faeee7;
+    border: none;
+    border-radius: 15px;
+    padding: 1px 10px;
+    display: block;
+    margin: 5px auto;
+}
+
+.variety-order-btn:hover{
+    transition: 0.5s;
+    border-radius: 25px;
+    cursor: pointer;
+
+}
+
+.variety-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    flex-direction: row;
+    
+}
+.variety-img{
+    height: 150px;
+    width: 150px;
+}
